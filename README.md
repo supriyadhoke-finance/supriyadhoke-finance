@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Supriya Dhoke
 
-<!--
-**supriyadhoke-finance/supriyadhoke-finance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA Finance Candidate (2026)
 
-Here are some ideas to get you started:
+## Finance Domains
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Financial Analysis
+* FP&A
+* Accounting
+* Taxation
+* Treasury
+* Business Analytics
+
+## Tools
+
+* Advanced Excel
+* Power BI
+* Tally Prime
+* Financial Modeling
+* Financial Statement Analysis
+
+## Current Focus
+
+Building practical finance projects using real-world business scenarios.
+
+## Career Goal
+
+Seeking Finance Analyst, FP&A Analyst, Accounting, Treasury, Taxation and Business Analyst opportunities.
